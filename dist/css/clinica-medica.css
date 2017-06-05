@@ -1,0 +1,36 @@
+/*!
+ * Start Bootstrap - Small Business (http://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+
+body {padding-top: 54px;}
+
+h1 {font-family: 'Ubuntu', 'Open Sans', sans-serif;font-size: 23px;word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;-ms-hyphens: auto;-o-hyphens: auto;hyphens: auto;}
+
+h2,h3,h4,h5,h6 {font-family: 'Ubuntu', 'Open Sans', sans-serif;font-size: 16px;word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;-ms-hyphens: auto;-o-hyphens: auto;hyphens: auto;}
+
+.multiFooter {font-family: 'Ubuntu', 'Open Sans', sans-serif;font-size: 18px;color:#FFF;word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;-ms-hyphens: auto;-o-hyphens: auto;hyphens: auto;}
+
+.multiP {font-family: 'Ubuntu', 'Open Sans', sans-serif;font-size: 14px;text-align: center;color:#FFF;word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;-ms-hyphens: auto;-o-hyphens: auto;hyphens: auto;}
+
+p{font-family: 'Ubuntu', 'Open Sans', sans-serif;text-align: justify;font-size:16px}
+p.small{font-family: 'Ubuntu', 'Open Sans', sans-serif;text-align: justify;font-size:14px}
+
+div#multiColumn {font-family: 'Ubuntu', 'Open Sans', sans-serif;font-size: 13px;-moz-column-count: 2;-moz-column-gap: 20px;-webkit-column-count: 2;-webkit-column-gap: 20px;column-count: 2;column-gap: 20px;}
+
+@media (min-width: 992px) {
+    body {padding-top: 56px;}
+}
+
+/* Temporary navbar container fix */
+.navbar-toggler {z-index: 1;
+}
+
+@media (max-width: 576px) {
+    nav > .container {width: 100%;}
+}
+
+/* Required CSS for admin. */
+.loginuser{border: 1px groove #949494;font-family: 'Ubuntu', 'Open Sans', verdana, arial, sans-serif;font-size: 11px;height:20px;margin: 0px 0px 0px 1px;background-image:url("imagens/username.gif");background-repeat:no-repeat;background-position:2px center;padding-left: 20px;color:#7F7F7F;}
+.loginpass{border: 1px groove #949494;font-family: 'Ubuntu', 'Open Sans', verdana, arial, sans-serif;font-size: 11px;height:20px;margin: 0px 0px 0px 1px;background-image:url("imagens/password.gif");background-repeat:no-repeat;background-position:2px center;padding-left: 20px;color:#7F7F7F;}
